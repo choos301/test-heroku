@@ -1,0 +1,7 @@
+{
+  "name": "test heroku",
+  "description": "Try to add app.json for button deploy to heroku",
+  "repository": "https://github.com/chaiwatmat/test-heroku.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
